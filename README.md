@@ -19,7 +19,7 @@ At the moment, I'm on the lookout for new job opportunities that will allow me t
 
 ### What I do
 
-Currently I'm interested in exploring the fascinating world of [Turing Complete] computational systems and discovering new ways to leverage their capabilities. I believe in leading a well-rounded life, and I always strive to challenge myself and broaden my horizons.
+Currently I'm interested in exploring the fascinating world of [turing complete] computational systems and discovering new ways to leverage their capabilities. I believe in leading a well-rounded life, and I always strive to challenge myself and broaden my horizons.
 
 ### My skills and tools I use
 
@@ -45,7 +45,7 @@ Currently I'm interested in exploring the fascinating world of [Turing Complete]
 ![python-lang-badge]
 ![shell-lang-badge]
 
-#### languages I learn
+#### Languages I learn
 
 ![java-lang-badge]
 ![clojure-lang-badge]
@@ -63,17 +63,17 @@ Currently I'm interested in exploring the fascinating world of [Turing Complete]
 
 </details>
 
-<!-- Links -->
+---
+
+### Check out my repos 👇
+
+<!--[ Links ]------------------------------------------------------------------>
 
 [hacker]: https://en.wikipedia.org/wiki/Hacker
-[Turing Complete]: https://en.wikipedia.org/wiki/Turing_completeness
+[turing complete]: https://en.wikipedia.org/wiki/Turing_completeness
 
-<!-- Stats -->
-
-[general-stats]: https://github-readme-stats.vercel.app/api?username=DominikMarcinowski&show_icons=false&theme=transparent
+[general-stats]: https://github-readme-stats.vercel.app/api?username=DominikMarcinowski&show_icons=false&theme=transparent&hide_border=true&count_private=true&hide_title=true
 [language-stats]: https://github-readme-stats.vercel.app/api/top-langs/?username=DominikMarcinowski&theme=transparent
-
-<!-- Badges -->
 
 [visitors-badge]: https://api.visitorbadge.io/api/visitors?path=DominikMarcinowski&countColor=%23263759&style=flat-square
 
