@@ -2,13 +2,13 @@
 
 I'm a Linux [hacker] with a strong focus on finding and optimizing common tasks by creating custom, small-scale programs. I'm passionate about understanding the inner workings of operating systems and finding innovative solutions to complex problems.
 
-<a href="https://github.com/DominikMarcinowski">
+<a href="https://github.com/gmardom">
 <img aligned="center" height=160px
-  src="https://github-readme-stats.vercel.app/api?username=DominikMarcinowski&show_icons=false&theme=transparent&hide_border=true&hide_title=true&rank_icon=github&disable_animations=true">
+  src="https://github-readme-stats.vercel.app/api?username=gmardom&show_icons=false&theme=transparent&hide_border=true&hide_title=true&rank_icon=github&disable_animations=true">
 </a>
-<a href="https://github.com/DominikMarcinowski">
+<a href="https://github.com/gmardom">
 <img aligned="center" height=160px
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominikMarcinowski&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true&count_private=true&hide_title=true&disable_animations=true">
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmardom&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true&count_private=true&hide_title=true&disable_animations=true">
 </a>
 
 ---
@@ -75,11 +75,11 @@ Currently I'm interested in exploring the fascinating world of [turing complete]
 [hacker]: https://en.wikipedia.org/wiki/Hacker
 [turing complete]: https://en.wikipedia.org/wiki/Turing_completeness
 
-[language-stats]: https://github-readme-stats.vercel.app/api/top-langs/?username=DominikMarcinowski&theme=transparent
+[language-stats]: https://github-readme-stats.vercel.app/api/top-langs/?username=gmardom&theme=transparent
 
 <!--[ Badges ]----------------------------------------------------------------->
 
-[visitors-badge]: https://api.visitorbadge.io/api/visitors?path=DominikMarcinowski&countColor=%23263759&style=flat-square
+[visitors-badge]: https://api.visitorbadge.io/api/visitors?path=gmardom&countColor=%23263759&style=flat-square
 
 [dotnet-badge]: https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
 [npm-badge]: https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white
